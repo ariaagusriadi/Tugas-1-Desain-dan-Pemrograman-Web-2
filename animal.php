@@ -56,7 +56,7 @@
   $koki->jumlah_kaki = 4;
   $koki->bisa_terbang = "Tidak Bisa Terbang";
 
-  echo "Koki Adalah Kucing <br>";
+  echo "Koki Adalah anjing <br>";
   echo "Punyi Kaki Sebanyak: " . $koki->jumlah_kaki . "<br>";
   echo $koki->bisa_terbang . "<br>";
   echo "Suaranya: " . $koki->bersuara() . "<br>";
